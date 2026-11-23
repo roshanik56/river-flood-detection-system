@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+instance/
+*.db
+private
+
+docs/PPTs/
+docs/Important Details.txt
+docs/Pinouts.txt
+
+# Hardware
+.pio/
+.vscode/
+bin/
+obj/
